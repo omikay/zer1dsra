@@ -26,9 +26,12 @@ The assigment for admission to ZerOne data scientist.
 Features
 --------
 
-**Please consider the fact that this is the first and not the latest commit, despite being pushed to the master. There is a Jupyter Notebook in the following address:
+**
+Please consider the fact that this is the first and not the latest commit, despite being pushed to the master. There is a Jupyter Notebook in the following address:
 https://github.com/omikay/zer1dsra/tree/master/zer1dsra
-This notebook contains all the answers to the assignment questions.**
+This notebook contains all the answers to the assignment questions.
+Please also make sure you put the data files where the Jupyter notebook is located on your machine.
+**
 
 Credits
 -------
